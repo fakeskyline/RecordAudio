@@ -1,0 +1,11 @@
+{
+  "geode": "6.0.0-beta.1",
+  "gd": {
+    "android": "2.2091"
+  },
+  "id": "fakeskyline.recordaudio",
+  "name": "RecordAudio",
+  "version": "v0.1.0",
+  "developer": "fakeskyline",
+  "description": "FMOD game-audio capture companion for Record."
+}
