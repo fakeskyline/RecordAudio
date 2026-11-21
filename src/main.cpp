@@ -8,7 +8,3 @@ $on_mod(Loaded) {
         log::error("RecordAudio failed to attach to FMOD.");
     }
 }
-
-$on_mod(Unloaded) {
-    recordaudio::uninstall();
-}
